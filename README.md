@@ -1,4 +1,4 @@
-# GooglePlayTestAutomation
+# Google Play Test Automation
 A test automation system to download apps from Google Play and checks if they are installed.
 
 Google Play's UI may vary between different Android versions, so the ID specified in line 90 ("com.android.vending: id / metadata") may need to change for some devices.
