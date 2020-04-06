@@ -5,7 +5,7 @@ Google Play's UI may vary between different Android versions, so the ID specifie
 
 Flow of the test program follows:
 
-1- Open Google Play
+1- Opens Google Play
 
 2- Waits until the searchbox is visible at the screen.
 
